@@ -15,7 +15,7 @@ SmartBill é uma app que permite ao utilizador tirar foto das faturas e extrair 
 - /mockups → imagens e ficheiros do Figma  
 
 ##  Link do repositório
-https://github.com/Gilma-De-Sousa/Smartbill # SmartBill
+https://github.com/Gilma-De-Sousa/Smartbill/new/main
 
 
 
